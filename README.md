@@ -1,4 +1,4 @@
 # Portfolio-Zidaan
-An amalgamation of all my skills built into a website using HTML5,SCSS,CSS3 and ScrollReveal.js
+A simple website that potrays all my work at one place. 
 
 Visit --> [link](https://zidaan.dev/) to view my portfolio. 
